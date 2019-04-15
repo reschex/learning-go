@@ -20,6 +20,7 @@ func TestNewDeck(t *testing.T) {
 	}
 }
 
+//test
 func TestSaveToDeckandNewDeckFromFile(t *testing.T) {
 	os.Remove("_decktesting")
 
